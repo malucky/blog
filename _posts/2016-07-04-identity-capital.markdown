@@ -3,6 +3,7 @@ layout: post
 title:  "Identity Capital"
 date:   2016-07-04 13:25:07
 categories: personal
+comments: true
 ---
 I am in the middle of reading a book, [The Defining Decade: Why Your Twenties Matter](http://megjay.com/the-defining-decade/) by Meg Jay, and I came across a concept that I want to internalize. This is the idea of **identity capital**. The author defines this as
 
